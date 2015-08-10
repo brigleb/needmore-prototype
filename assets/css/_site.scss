@@ -58,6 +58,16 @@ body.home {
   }
 }
 
+body.work {
+  #intro {
+    height: 50vh;
+    margin: 10em 5em;
+    h4 {
+      max-width: 800px;
+    }
+  }
+}
+
 // Menu overlay
 //////////////////////////////////////////////////////////////
 

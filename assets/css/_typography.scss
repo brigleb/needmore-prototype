@@ -53,69 +53,72 @@ textarea {
     padding: 0.2em 0;
 }
 
-body { 
+body {
     font: 15px/21px $body-font;
     color: $dark-grey;
-    font-smooth: always; 
+    font-smooth: always;
     -webkit-font-smoothing: subpixel-antialiased; // smooth fonts
     text-shadow: 0 1px 0 rgba(0,0,0,0.01); // smooth fonts
     background: #fff;
 }
 
-h1,h2,h3,h4,h5,h6 { 
-    line-height: 1.125em; 
+h1,h2,h3,h4,h5,h6 {
+    line-height: 1.125em;
     margin:0 0 .675em 0;
-    
+
     font-family: $header-font;
     font-style: normal;
     font-weight: normal;
     font-stretch: normal;
 }
 
-h1 { 
+h1 {
     font-size: em(45, 15);
 }
 
-h2 { 
-    font-size: em(34, 15);
+h2 {
+    font-size: 65px;
+    line-height: 80px;
 }
 
-h3 { 
+h3 {
     font-size: em(30, 15);
 }
 
-h4 { 
-    font-size: em(24, 15);
+h4 {
+    font-size: 28px;
+    line-height: 40px;
+    font-family: $body-font;
 }
 
-h5 { 
+h5 {
     font-size: em(21, 15);
 }
 
-h6 { 
+h6 {
     font-size: em(18, 15);
 }
 
 a{
-    text-decoration: none;
+    // text-decoration: none;
     &:hover{
         color: #444;
     }
 }
 
-p { 
+p {
     margin-bottom: 1em;
 }
 
-small, .small { 
+small, .small {
     font-size: 0.750em;
 }
 
-strong { 
+strong {
     font-weight: bold;
 }
 
-em { 
+em {
     font-style: italic;
 }
 .center{
