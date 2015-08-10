@@ -1,0 +1,14 @@
+$color_lamarzocco: #ffcc00;
+
+body.home {
+  .work.section {
+    text-align: center;
+    background-color: $color_lamarzocco;
+    svg {
+      width: 50vmax;
+    }
+    svg:hover image {
+      opacity: .5;
+    }
+  }
+}
