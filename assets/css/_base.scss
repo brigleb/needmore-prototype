@@ -1,0 +1,26 @@
+@import 
+    'normalize',
+    'skeleton';
+
+// orange default
+$theme-color: #fff; // dark #b84712
+$accent-color: darken($theme-color, 10); // That is, 10% darker than the brand-color.
+
+// other colors
+
+// fonts
+$body-font: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+
+$header-font: "Helvetica", $body-font;
+
+// Type color
+$light-grey: #696158;
+$dark-grey: #1f1f1f;
+
+
+/* Custom mixins & Placeholders */
+
+// border-radius
+@mixin border-radius($radius) {
+    border-radius: $radius;
+}
