@@ -1,4 +1,4 @@
-@import 
+@import
     'normalize',
     'skeleton';
 
@@ -9,9 +9,9 @@ $accent-color: darken($theme-color, 10); // That is, 10% darker than the brand-c
 // other colors
 
 // fonts
-$body-font: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+$body-font: 'Copernicus-Book', Arial, 'Helvetica Neue', Helvetica, sans-serif;
 
-$header-font: "Helvetica", $body-font;
+$header-font: 'GalaxiePolaris-Light', "Helvetica", $body-font;
 
 // Type color
 $light-grey: #696158;

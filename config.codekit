@@ -189,8 +189,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/assets\/css\/main.scss": {
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
@@ -201,9 +210,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
+		},
+	"\/assets\/img\/lamarzocco.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100374,
+		"inputAbbreviatedPath": "\/assets\/img\/lamarzocco.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/lamarzocco.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/assets\/js\/holder.js": {
 		"fileType": 64,
@@ -343,6 +363,28 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/Build\/assets\/img\/La-Marzocco-Graphic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100374,
+		"inputAbbreviatedPath": "\/Build\/assets\/img\/La-Marzocco-Graphic.jpg",
+		"outputAbbreviatedPath": "\/Build\/assets\/img\/La-Marzocco-Graphic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Build\/assets\/img\/lamarzocco.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100374,
+		"inputAbbreviatedPath": "\/Build\/assets\/img\/lamarzocco.jpg",
+		"outputAbbreviatedPath": "\/Build\/assets\/img\/lamarzocco.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/Build\/assets\/js\/holder.js": {
 		"fileType": 64,
