@@ -1,3 +1,4 @@
+// global styles
 #masthead {
   top: 1em;
   left: 1em;
@@ -9,11 +10,12 @@
   position: fixed;
 }
 
+// pages
 body.home {
   #intro {
     height: 100vh;
     background-color: $color-blue;
-    h2 {
+    h4 {
       text-align: center;
       font-family: $body-font;
       padding-top: 50vh;
@@ -58,10 +60,43 @@ body.home {
   }
 }
 
+body.about {
+  #intro {
+    height: 66vh;
+    padding: 10em 8em;
+    h4 {
+      max-width: 800px;
+    }
+  }
+  #believe {
+    padding: 10em 8em;
+    min-height: 50vh;
+    background-color: $color-blue;
+    color: $color-white;
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+      li {
+        font-size: 28px;
+        line-height: 56px;
+        font-family: $body-font;
+      }
+    }
+  }
+  #records {
+    height: 66vh;
+    min-height: 300px;
+    background-image: url(assets/img/records.jpg);
+    background-repeat: none;
+    background-size: cover;
+    padding: 20vh 5em 10em 50vw;
+  }
+}
+
 body.work {
   #intro {
     height: 50vh;
-    padding: 10em 5em;
+    padding: 10em 8em;
     h4 {
       max-width: 800px;
     }
@@ -88,6 +123,7 @@ body.work {
         // https://css-tricks.com/svg-line-animation-works/
         stroke-dasharray: 1989.442626953125;
         stroke-dashoffset: 1989.442626953125;
+        stroke-alignment: inside;
         animation: dash 1s linear forwards;
         stroke: rgba(255,255,255,.8);
       }

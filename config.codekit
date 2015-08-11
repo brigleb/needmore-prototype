@@ -11,6 +11,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/about.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/assets\/apple-touch-icon-114x114-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -241,6 +250,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/records.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 260064,
+		"inputAbbreviatedPath": "\/assets\/img\/records.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/records.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/js\/holder.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -338,6 +358,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/Build\/about.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Build\/about.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/Build\/assets\/apple-touch-icon-114x114-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -404,6 +433,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/Build\/assets\/css\/about.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Build\/assets\/css\/about.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/Build\/assets\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -413,17 +451,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Build\/assets\/img\/La-Marzocco-Graphic.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 100374,
-		"inputAbbreviatedPath": "\/Build\/assets\/img\/La-Marzocco-Graphic.jpg",
-		"outputAbbreviatedPath": "\/Build\/assets\/img\/La-Marzocco-Graphic.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/Build\/assets\/img\/lamarzocco.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -431,6 +458,17 @@
 		"initialSize": 100374,
 		"inputAbbreviatedPath": "\/Build\/assets\/img\/lamarzocco.jpg",
 		"outputAbbreviatedPath": "\/Build\/assets\/img\/lamarzocco.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Build\/assets\/img\/records.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 260064,
+		"inputAbbreviatedPath": "\/Build\/assets\/img\/records.jpg",
+		"outputAbbreviatedPath": "\/Build\/assets\/img\/records.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -522,15 +560,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/Build\/assets\/js\/work.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Build\/assets\/js\/work.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/Build\/index.html": {
 		"fileType": 8192,
@@ -1170,7 +1199,7 @@
 	"markdownProcessHTML": 0,
 	"markdownRandomFootnoteNumbers": 0,
 	"markdownUseCompatibilityMode": 0,
-	"reloadFileURLs": 0,
+	"reloadFileURLs": 1,
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
 	"sassAutoOutputPathRelativePath": "..\/css",
